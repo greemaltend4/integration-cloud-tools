@@ -7,5 +7,5 @@ app.get('/', (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`L'application est en cours d'exécution sur http://localhost:${port}`);
+  console.log(`L'application est opérationnelle sur http://localhost:${port}`);
 });
