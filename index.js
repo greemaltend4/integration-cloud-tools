@@ -3,9 +3,9 @@ const app = express();
 const port = 3000;
 
 app.get('/', (req, res) => {
-  res.send('Bienvenue dans votre outil d\'intégration cloud!');
+  res.send('Bienvenue dans votre outil d’intégration cloud !');
 });
 
 app.listen(port, () => {
-  console.log(`L'application est en cours d\'exécution sur http://localhost:${port}`);
+  console.log(`L'application est en cours d'exécution sur http://localhost:${port}`);
 });
