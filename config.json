@@ -1,0 +1,7 @@
+{
+  "api_keys": {
+    "aws": "votre_cle_aws",
+    "google_cloud": "votre_cle_google_cloud",
+    "azure": "votre_cle_azure"
+  }
+}
