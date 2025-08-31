@@ -2,6 +2,6 @@
   "api_keys": {
     "aws": "AKIAEXAMPLEAWSKEY",
     "google_cloud": "AIzaSyEXAMPLEGOOGLECLOUDKEY",
-    "azure": "YOUR_AZURE_ACCESS_KEY"
+    "azure": "YOUR_AZURE_ACCESS_KEY_PLACEHOLDER"
   }
 }
