@@ -3,7 +3,7 @@ const app = express();
 const port = 3000;
 
 app.get('/', (req, res) => {
-  res.send('Bienvenue dans l\'outil d\'intégration cloud!');
+  res.send('Bienvenue dans votre outil d\'intégration cloud!');
 });
 
 app.listen(port, () => {
