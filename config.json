@@ -1,7 +1,7 @@
 {
   "api_keys": {
-    "aws": "EXAMPLE_AWS_KEY",
-    "google_cloud": "EXAMPLE_GOOGLE_CLOUD_KEY",
-    "azure": "EXAMPLE_AZURE_KEY"
+    "aws": "NEW_EXAMPLE_AWS_KEY",
+    "google_cloud": "NEW_EXAMPLE_GOOGLE_CLOUD_KEY",
+    "azure": "NEW_EXAMPLE_AZURE_KEY"
   }
 }
