@@ -1,6 +1,6 @@
 {
   "name": "integration-cloud-tools",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Tools for cloud integration services",
   "main": "index.js",
   "scripts": {
