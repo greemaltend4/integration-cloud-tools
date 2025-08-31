@@ -1,7 +1,7 @@
 {
   "api_keys": {
-    "aws": "YOUR_AWS_ACCESS_KEY",
-    "google_cloud": "YOUR_GOOGLE_CLOUD_ACCESS_KEY",
+    "aws": "AKIAEXAMPLEAWSKEY",
+    "google_cloud": "AIzaSyEXAMPLEGOOGLECLOUDKEY",
     "azure": "YOUR_AZURE_ACCESS_KEY"
   }
 }
