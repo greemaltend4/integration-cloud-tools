@@ -1,7 +1,7 @@
 {
   "name": "integration-cloud-tools",
   "version": "1.0.0",
-  "description": "Outils d'intégration pour les services cloud",
+  "description": "Tools for cloud integration services",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
