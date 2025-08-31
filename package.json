@@ -1,0 +1,16 @@
+{
+  "name": "integration-cloud-tools",
+  "version": "1.0.0",
+  "description": "Outils d'intégration pour les services cloud",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "author": "Votre Nom",
+  "license": "MIT"
+}
